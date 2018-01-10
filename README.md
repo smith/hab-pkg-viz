@@ -33,6 +33,11 @@ which wouldn't require any packages to be installed.
 
 Any changes or suggestions are welcome.
 
+## Example
+
+This image is a graph of runtime dependencies of `hab-pkg-viz` package itself.
+![hab-pkg-viz runtime dependencies](hab-pkg-viz.png?raw=true "Dependencies of `hab-pkg-viz`")
+
 ## License
 
 Copyright: Copyright (c) 2016 Nathan L Smith, Inc.
